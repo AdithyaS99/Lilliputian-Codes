@@ -38,3 +38,17 @@ print(open(__file__).read())
 - Sometimes one-liner codes can be longer than multi-liner in consideration of number of characaters.
 - If you are just copying & pasting it from some source, don't forget to refer & acknowledge the site.
 - <b>NOTE:</b> Refering from some other source is a good practice to improve your code. 
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+## Instead of doing this:
+```
+tmp = y
+y = x
+x = tmp
+```
+## Do this:
+```
+x,y = y,x
+```
