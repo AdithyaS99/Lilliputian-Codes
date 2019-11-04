@@ -20,7 +20,7 @@ health as well).
 ![Lilliputians](http://www.hotel-r.net/im/hotel/it/lilliput-10.jpg)
 
 
-
+# Example of King of Lilliput Code
 
 ## Print its own source code:
 ```
@@ -28,3 +28,8 @@ print(open(__file__).read())
 ```
 ### When the above code will be run in python3, the same code will be the output
 
+- Output of the program: 
+
+```
+print(open(__file__).read()) 
+```
