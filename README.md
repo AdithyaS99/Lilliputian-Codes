@@ -34,7 +34,7 @@ print(open(__file__).read())
 print(open(__file__).read()) 
 ```
 
-# RULES:
+# Additional Points  :memo:
 - Sometimes one-liner codes can be longer than multi-liner in consideration of number of characaters.
 - If you are just copying & pasting it from some source, don't forget to refer & acknowledge the site.
 - <b>NOTE:</b> Refering from some other source is a good practice to improve your code. 
@@ -50,5 +50,17 @@ x = tmp
 ```
 ## Do this:
 ```
-x,y = y,x
+x,y=y,x
+```
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+## Instead of:
+```
+a = Function_name(value)
+print(a)
+```
+## Do this:
+```
+print(Function_name(value))
 ```
