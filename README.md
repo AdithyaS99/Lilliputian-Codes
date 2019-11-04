@@ -15,7 +15,11 @@ health as well).
 -  Use Cases
 -  Lilliput code files (waiting for you) 
 
-
+![](https://img.shields.io/badge/Lilliputians-Thats%20me-orange)
+![](https://img.shields.io/badge/Code%20-Shortest-green)
+![](https://img.shields.io/badge/Language-Your%20Wish-red)
+![](https://img.shields.io/badge/Less%20Caffeine-Yeahh-yellow)
+![](https://img.shields.io/badge/Coffee%20Code-Contribute-blue)
 
 ![Lilliputians](http://www.hotel-r.net/im/hotel/it/lilliput-10.jpg)
 
