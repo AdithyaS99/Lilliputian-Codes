@@ -8,11 +8,11 @@ complexity. Make sure the code works (so that you can drink some coffee) and it 
 health as well).
 
 
-Repository Directory structure:
+# Repository Directory structure:
 
-<h2> Root Directory (Lilliputian-Codes) </h2>
-<h4> Use Case </h4>
-<h6> Lilliput code files (waiting for you) </h6>
+-  Root Directory (Lilliputian-Codes) 
+-  Use Case 
+-  Lilliput code files (waiting for you) 
 
 
 
