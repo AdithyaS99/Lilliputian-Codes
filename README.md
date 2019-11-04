@@ -7,7 +7,7 @@ The main aim of this repository is to come down to shortest code snippet. In the
 complexity. Make sure the code works (so that you can drink some coffee) and it has the least characters (as caffeine is not good for 
 health as well).
 
-```markdown
+
 Repository Directory structure:
 
 # Root Directory (Lilliputian-Codes)
@@ -18,6 +18,6 @@ Repository Directory structure:
 
 [Lilliputians](http://www.hotel-r.net/im/hotel/it/lilliput-10.jpg)
 ![Lilliputians](http://www.hotel-r.net/im/hotel/it/lilliput-10.jpg)
-```
+
 
 
