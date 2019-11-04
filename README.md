@@ -37,5 +37,5 @@ print(open(__file__).read())
 # RULES:
 - White spaces are included in the character count.
 - Sometimes one-liner codes can be longer than multi-liner in consideration of number of characaters.
-- If you are just copying and pasting it from some source, don't forget to refer and acknowledge the site.
+- If you are just copying & pasting it from some source, don't forget to refer & acknowledge the site.
 - <b>NOTE:</b> Refering from some other source is a good practice to improve your code. 
