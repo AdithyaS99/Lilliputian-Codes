@@ -1,5 +1,6 @@
-## Welcome to the world of LILLIPUTS OF CODE
+## Welcome to the world of Lilliputs of Code
 
+<hr>
 
 ### Lilliputians of code
 
