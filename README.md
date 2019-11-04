@@ -12,7 +12,7 @@ health as well).
 # Repository Directory structure:
 
 -  Root Directory (Lilliputian-Codes) 
--  Use Case 
+-  Use Cases
 -  Lilliput code files (waiting for you) 
 
 
