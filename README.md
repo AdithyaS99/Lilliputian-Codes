@@ -21,3 +21,9 @@ health as well).
 
 
 
+'''
+# Print its own source code:
+```print(open(__file__).read()) 
+```
+When the above code will be run in python3, the same code will be the output
+'''
