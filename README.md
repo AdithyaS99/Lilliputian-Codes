@@ -67,3 +67,31 @@ print(a)
 ```
 print(Function_name(value))
 ```
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+# Rules for raising a PR:
+
+1) Understand the main aim of the repository.
+2) Fork the repository. You can clone/download the repository as well.
+3) Check the avalaible issues.
+4) Tag the author asking for permission on which you wish to work on.
+5) After getting the approval to work on a particular issue, start working on the issue.
+6) After making the required commits, raise a PR.
+7) Don't forget to refer the issue for which u r raising the PR for.
+8) Wait for the approval.
+9) If there would be any conflicts, you would be inforomed about the same.
+10) If everything seems correct, hurray you have done it.
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+- You will get a chance to mention the name of the coffee you like to have. 
+
+-----------------------------------------------------------------------------------------------------------------------------------
+```
+Star the repository for easy access
+```
+-----------------------------------------------------------------------------------------------------------------------------------
+
+# A step towards making less caffeine coffee community with Lilliputian code :coffee:
