@@ -10,13 +10,12 @@ health as well).
 
 Repository Directory structure:
 
-# Root Directory (Lilliputian-Codes)
-## Use Case 
-### Lilliput code files (waiting for you)
+<h2> Root Directory (Lilliputian-Codes) </h2>
+<h4> Use Case </h4>
+<h6> Lilliput code files (waiting for you) </h6>
 
 
 
-[Lilliputians](http://www.hotel-r.net/im/hotel/it/lilliput-10.jpg)
 ![Lilliputians](http://www.hotel-r.net/im/hotel/it/lilliput-10.jpg)
 
 
