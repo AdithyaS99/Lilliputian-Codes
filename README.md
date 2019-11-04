@@ -1,4 +1,4 @@
-## Welcome to the world of Lilliputs of Code
+## Welcome to the world of LILLIPUTS OF CODE
 
 
 ### Lilliputians of code
