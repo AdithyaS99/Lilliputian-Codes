@@ -1,3 +1,5 @@
+<span style="color:red">some **This is Red Bold.** text</span>
+
 ## Welcome to the world of Lilliputs of Code
 
 <hr size="2px">
