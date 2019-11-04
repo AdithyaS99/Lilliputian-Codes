@@ -40,7 +40,7 @@ print(open(__file__).read())
 - <b>NOTE:</b> Refering from some other source is a good practice to improve your code. 
 - You can ulter the print commands.
   1) For example: print("Yes, the number is present in the array") can be written as print("Yes") {to decrease count of characters} 
-
+- In some of the use cases, sample code is given. It is just for reference, it's not necessary to shorten that particular code itself if in case if it is an algorithm based usecase. It means that you can use any techniques for use cases like linear search, binary search etc. But in case of a random specific code snippet given, shorten that particular code itself.
 -----------------------------------------------------------------------------------------------------------------------------------
 
 
