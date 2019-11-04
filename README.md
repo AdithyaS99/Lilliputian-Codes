@@ -2,7 +2,7 @@
 
 <hr size="2px">
 
-### Lilliputians of code
+### <span style="color: orange">Lilliputians of code </span>
 
 The main aim of this repository is to come down to shortest code snippet. In the process of doing so, one can ignore time and space 
 complexity. Make sure the code works (so that you can drink some coffee) and it has the least characters (as caffeine is not good for 
