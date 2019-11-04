@@ -1,6 +1,6 @@
 ## Welcome to the world of Lilliputs of Code
 
-<hr>
+<hr size="2px">
 
 ### Lilliputians of code
 
