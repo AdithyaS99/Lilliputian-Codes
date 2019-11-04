@@ -1,4 +1,4 @@
-## Welcome to the world of Lilliputs of Code
+## Welcome to the world of Lilliputs of Code :computer:
 
 <hr size="2px">
 
