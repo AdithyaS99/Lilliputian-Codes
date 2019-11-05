@@ -83,7 +83,7 @@ print(Function_name(value))
 4) Tag the author asking for permission on which you wish to work on.
 5) After getting the approval to work on a particular issue, start working on the issue.
 6) After making the required commits, raise a PR.
-7) Don't forget to refer the issue for which u r raising the PR for.
+7) Don't forget to refer the issue for which you r raising the PR for.
 8) Wait for the approval.
 9) If there would be any conflicts, you would be inforomed about the same.
 10) If everything seems correct, hurray you have done it.
