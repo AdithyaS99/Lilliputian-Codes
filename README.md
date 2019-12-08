@@ -19,10 +19,11 @@ health as well).
 ![](https://img.shields.io/badge/Code%20-Shortest-green)
 ![](https://img.shields.io/badge/Language-Your%20Wish-red)
 ![](https://img.shields.io/badge/Less%20Caffeine-Yeahh-yellow)
+[![Open Source Helpers](https://www.codetriage.com/shahkv95/lilliputian-codes/badges/users.svg)](https://www.codetriage.com/shahkv95/lilliputian-codes)
 ![](https://img.shields.io/badge/Coffee%20Code-Contribute-blue)
 
 ![Lilliputians](http://www.hotel-r.net/im/hotel/it/lilliput-10.jpg)
-[![Open Source Helpers](https://www.codetriage.com/shahkv95/lilliputian-codes/badges/users.svg)](https://www.codetriage.com/shahkv95/lilliputian-codes)
+
 
 # Example of King of Lilliput Code
 
